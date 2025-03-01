@@ -126,4 +126,6 @@
 
 <img src="https://raw.githubusercontent.com/0xdowz/0xdowz/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/0xdowz/0xdowz/blob/output/github-contribution-grid-snake.gif)
+
 ###
