@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdowz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdowz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xdowz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdowz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif?cid=790b7611tmjo0h8t40vzrj501fzzdg25lj2o8sa1ur2ftlyo&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
@@ -121,5 +121,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/0xdowz/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/0xdowz/0xdowz/output/snake.svg" alt="Snake animation" />
 
 ###
