@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .accent-primary { stroke: #3b82f6; }
+      .accent-secondary { stroke: #00ff88; }
+      .accent-tertiary { stroke: #fbbf24; }
+      .text-light { fill: #e5e7eb; font-family: 'Fira Code', monospace; font-size: 14px; }
+      .pulse-animation { animation: pulse 3s ease-in-out infinite; }
+      .glow-animation { animation: glow 2s ease-in-out infinite; }
+      .float-animation { animation: float 4s ease-in-out infinite; }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 2px #3b82f6); }
+        50% { filter: drop-shadow(0 0 8px #3b82f6); }
+      }
+      
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect class="bg" width="800" height="300"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" class="text-light" text-anchor="middle" font-size="28" font-weight="bold">
+    Infrastructure → Security → Automation
+  </text>
+  
+  <!-- Top divider -->
+  <line x1="100" y1="70" x2="700" y2="70" stroke="#3b82f6" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Left box: Windows -->
+  <g class="float-animation">
+    <rect x="50" y="100" width="140" height="120" rx="8" class="accent-primary" stroke-width="2" fill="none"/>
+    <text x="120" y="125" class="text-light" text-anchor="middle" font-weight="bold">Windows</text>
+    <text x="120" y="145" class="text-light" text-anchor="middle" font-size="12">Server</text>
+    <text x="120" y="165" class="text-light" text-anchor="middle" font-size="12">Diagnostics</text>
+    <text x="120" y="185" class="text-light" text-anchor="middle" font-size="12">PowerShell</text>
+    <circle cx="120" cy="220" r="3" class="accent-primary" class="pulse-animation"/>
+  </g>
+  
+  <!-- Center box: Cloud & Security (highlighted) -->
+  <g class="glow-animation">
+    <rect x="330" y="80" width="140" height="160" rx="8" class="accent-secondary" stroke-width="2.5" fill="none"/>
+    <text x="400" y="110" class="text-light" text-anchor="middle" font-weight="bold">Cloud &</text>
+    <text x="400" y="135" class="text-light" text-anchor="middle" font-weight="bold">Security</text>
+    <text x="400" y="160" class="text-light" text-anchor="middle" font-size="12">Infrastructure</text>
+    <text x="400" y="180" class="text-light" text-anchor="middle" font-size="12">Automation</text>
+    <text x="400" y="200" class="text-light" text-anchor="middle" font-size="12">Hardening</text>
+    <circle cx="400" cy="235" r="3" class="accent-secondary" class="pulse-animation"/>
+  </g>
+  
+  <!-- Right box: Linux -->
+  <g class="float-animation" style="animation-delay: 0.5s;">
+    <rect x="610" y="100" width="140" height="120" rx="8" class="accent-tertiary" stroke-width="2" fill="none"/>
+    <text x="680" y="125" class="text-light" text-anchor="middle" font-weight="bold">Linux</text>
+    <text x="680" y="145" class="text-light" text-anchor="middle" font-size="12">Systems</text>
+    <text x="680" y="165" class="text-light" text-anchor="middle" font-size="12">Networking</text>
+    <text x="680" y="185" class="text-light" text-anchor="middle" font-size="12">Python</text>
+    <circle cx="680" cy="220" r="3" class="accent-tertiary" class="pulse-animation"/>
+  </g>
+  
+  <!-- Connecting lines -->
+  <line x1="190" y1="160" x2="330" y2="160" stroke="#3b82f6" stroke-width="1.5" opacity="0.4"/>
+  <line x1="470" y1="160" x2="610" y2="160" stroke="#00ff88" stroke-width="1.5" opacity="0.4"/>
+  
+  <!-- Bottom divider -->
+  <line x1="100" y1="270" x2="700" y2="270" stroke="#3b82f6" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Footer text -->
+  <text x="400" y="295" class="text-light" text-anchor="middle" font-size="12" opacity="0.7">
+    Learning • Building • Securing
+  </text>
+</svg>
