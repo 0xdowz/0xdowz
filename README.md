@@ -1,131 +1,250 @@
-<h1 align="left">WHOAMI?</h1>
+<div align="center">
 
-###
+<a href="https://github.com/0xdowz">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,18,24&text=ANAS%20AL-JABOUR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20%E2%86%92%20Cloud%20%E2%86%92%20Security%20%2B%20Automation&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+</a>
 
-<p align="left">A Jordanian 🇯🇴 who designs 🎨, codes 💻, and breaks 💥, When systems fall, I'm the one who Knocks 🛠️.</p>
+<br>
 
-###
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+practical+systems.;Automating+repetitive+work.;Learning+infrastructure+from+the+ground+up.;Exploring+cloud+and+security.;Designing+tools%2C+not+just+talking+about+them." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0xdowz-0d1117?style=flat-square\&logo=github)](https://github.com/0xdowz)
+[![GitHub followers](https://img.shields.io/github/followers/0xdowz?style=flat-square\&label=Followers\&color=0d1117)](https://github.com/0xdowz?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=0xdowz\&style=flat-square\&color=0d1117\&label=PROFILE+VIEWS)](https://github.com/0xdowz)
+
+</div>
+
+---
+
+## `whoami`
+
+I'm **Anas Al-Jabour**, a Management Information Systems student at **The Hashemite University** with a background in **graphic design** and a growing focus on IT infrastructure, systems, cloud, security, and automation.
+
+I like understanding **how things actually work** — from Windows internals and Linux systems to networking, troubleshooting, virtualization, and the infrastructure behind modern applications.
+
+My long-term direction is:
+
+```text
+IT Fundamentals
+      ↓
+Networking
+      ↓
+Linux + Windows Systems
+      ↓
+PowerShell + Python Automation
+      ↓
+Cloud
+      ↓
+Security
+      ↓
+Cloud / Infrastructure Security
+      ↓
+Security Engineering + Automation
+```
+
+I am especially interested in building **useful tools and repeatable workflows**, rather than collecting technologies just for the sake of listing them.
+
+---
+
+## `current_focus`
+
+```text
+┌─ ANAS@GITHUB ─────────────────────────────────────┐
+│                                                  │
+│  ROLE       →  MIS Student / Systems Builder     │
+│  DIRECTION  →  IT Infrastructure → Cloud → Sec   │
+│  AUTOMATION →  Python + PowerShell               │
+│  SYSTEMS    →  Windows + Linux                    │
+│  NETWORKING →  Fundamentals → Practical Labs     │
+│  INTERESTS  →  Infrastructure / Security / OSINT  │
+│  BUILDING   →  Developer & Windows tooling        │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+---
+
+## `featured_projects`
+
+### ⚙️ WinForge
+
+**Windows diagnostic & optimization toolkit**
+
+A practical Windows 10/11 CLI project focused on:
+
+* diagnostics
+* safe system optimization
+* restore points & rollback
+* backups and change tracking
+* dry-run workflows
+* offline operation
+* no telemetry
+
+**Tech:** Python • Windows • CLI • System Administration
+
+[![WinForge](https://img.shields.io/badge/VIEW_PROJECT-1f6feb?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/0xdowz/winforge)
+
+---
+
+### 🔎 OSINT Tooling
+
+Currently exploring a more serious approach to **AI-assisted OSINT**.
+
+The goal is not another username-search clone.
+
+The focus is on:
+
+```text
+Collection
+   ↓
+Normalization
+   ↓
+Correlation
+   ↓
+Evidence
+   ↓
+Analysis
+   ↓
+Useful Output
+```
+
+The broader idea is to combine **automation + intelligence workflows + practical security research** into something genuinely useful.
+
+---
+
+## `toolbox`
+
+### Systems
+
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square\&logo=windows\&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square\&logo=linux\&logoColor=FCC624)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square\&logo=powershell\&logoColor=5391FE)
+
+### Development & Automation
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square\&logo=python\&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square\&logo=github\&logoColor=ffffff)
+
+### Infrastructure & Security
+
+![Networking](https://img.shields.io/badge/Networking-0d1117?style=flat-square\&logo=cisco\&logoColor=58A6FF)
+![Cloud](https://img.shields.io/badge/Cloud-0d1117?style=flat-square\&logo=icloud\&logoColor=58A6FF)
+![Security](https://img.shields.io/badge/Security-0d1117?style=flat-square\&logo=shield\&logoColor=58A6FF)
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat-square\&logo=search\&logoColor=58A6FF)
+
+---
+
+## `outside_the_terminal`
+
+Before moving deeper into IT, I spent years working in **graphic design**.
+
+That background still influences the way I build software:
+
+**Good tooling should not only work — it should also communicate clearly.**
+
+I care about:
+
+* clean interfaces
+* visual hierarchy
+* useful documentation
+* practical UX
+* making complex systems easier to understand
+
+---
+
+## `currently_learning`
+
+```text
+[██████████████░░░░░░] IT Fundamentals
+[████████████░░░░░░░░] Networking
+[██████████░░░░░░░░░░] Linux
+[█████████░░░░░░░░░░░] Windows Server / AD
+[███████░░░░░░░░░░░░░] PowerShell
+[██████░░░░░░░░░░░░░░] Python Automation
+[████░░░░░░░░░░░░░░░░] Cloud
+[███░░░░░░░░░░░░░░░░░] Infrastructure Security
+```
+
+---
+
+## `github_activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdowz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdowz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<a href="https://github.com/0xdowz">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xdowz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" />
+</a>
+
+<a href="https://github.com/0xdowz">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdowz&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/0xdowz">
+  <img src="https://streak-stats.demolab.com?user=0xdowz&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</a>
+
 </div>
 
-###
+---
 
-<h1 align="left">💻Tech stack:</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="30" alt="sdl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
+## `contributions`
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/tptFQ8QAJYYvu/giphy.gif?cid=790b7611tmjo0h8t40vzrj501fzzdg25lj2o8sa1ur2ftlyo&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+<a href="https://github.com/0xdowz">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
+</a>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/jbo0r" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/0xjboor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jbo0r/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/0xdowz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-  </a>
-  <a href="0xdowz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="anasaljboor100@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## `what_i_care_about`
 
-###
+```text
+         BUILD
+           │
+           ▼
+      AUTOMATE
+           │
+           ▼
+        SECURE
+           │
+           ▼
+       UNDERSTAND
+           │
+           └──────────────► IMPROVE
+```
+
+I am interested in the layer underneath the applications:
+
+**machines → operating systems → networks → infrastructure → cloud → security**
+
+That is where I want to become genuinely strong.
+
+---
+
+## `connect`
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xdowz/count.svg?"  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-0xdowz-0d1117?style=for-the-badge\&logo=github)](https://github.com/0xdowz)
+
 </div>
 
-###
+<br>
 
-<img src="https://raw.githubusercontent.com/0xdowz/0xdowz/output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-![snake gif](https://github.com/0xdowz/0xdowz/blob/output/github-contribution-grid-snake.gif)
+### `Build. Automate. Secure.`
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=12,18,24&animation=twinkling" width="100%"/>
+
+</div>
