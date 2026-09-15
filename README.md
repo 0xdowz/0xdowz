@@ -1,101 +1,98 @@
 <div align="center">
-  
-  ![Hero Banner](./assets/hero.svg)
-  
-  # Anas Al-Jabour
-  
-  **Infrastructure & Systems Engineer** | Security-Focused | Automation Builder  
-  Jordan 🇯🇴 | MIS Student @ The Hashemite University
-  
-  ---
-  
-  > Passionate about **infrastructure**, **security**, and **systems thinking**.  
-  > Building tools that solve real problems. Automation enthusiast.
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=ANAS%20AL-JBOOR&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=SYSTEMS%20%2F%20INFRASTRUCTURE%20%2F%20AUTOMATION&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+build+things+that+solve+real+problems.;Systems+first.+Automation+second.+Security+always.;Windows+%7C+Linux+%7C+Networking+%7C+Python;Learning+infrastructure+by+building+it." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `SYSTEMS → CLOUD → SECURITY → AUTOMATION`
+
 </div>
 
 ---
 
-## 🎯 Current Direction
+## `about`
 
-I'm on a learning path: **IT Fundamentals** → **Networking** → **Linux** → **Systems Administration** → **Cloud** → **Infrastructure Security** → **Security Engineering + Automation**
+I'm **Anas Al-Jboor**, an MIS student at **The Hashemite University** with a background in graphic design.
 
-**Right now:** Exploring Windows/Linux systems, PowerShell & Python automation, cloud infrastructure, and security-focused tooling.
+I'm moving deeper into **IT infrastructure and systems**, with a long-term focus on **cloud, security, and automation**.
 
----
-
-## 🔨 Featured Project
-
-### **WinForge**
-
-A powerful, open-source Python CLI for **Windows 10/11 diagnostics, optimization, and system management**.
-
-**What it does:**
-- 🔍 Deep system diagnostics (hardware, software, services, network)
-- ⚡ Non-destructive optimization (dry-run mode for safety)
-- 💾 Automatic backup creation and restore points
-- 📋 Change ledger for audit trails
-- 🔐 No telemetry, no cloud dependency — works offline
-- 🛡️ Administrator workflows in mind
-
-**Why it matters:**  
-Built for sysadmins and Windows infrastructure engineers who need **real control** over system diagnostics without bloat or telemetry.
-
-[🔗 WinForge Repository](https://github.com/0xdowz/winforge) | [📖 Documentation](https://github.com/0xdowz/winforge#readme)
+I prefer learning by building — understanding how a system works, breaking problems into smaller pieces, then turning the solution into a useful tool.
 
 ---
 
-## 🔍 In Progress
+## `featured`
 
-### **AI-Assisted OSINT Platform**
+<a href="https://github.com/0xdowz/winforge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
 
-Exploring a more sophisticated OSINT tool that combines:
-- Automated data collection from public sources
-- Data normalization & correlation
-- AI-assisted analysis and evidence linking
-- Useful investigative workflows
+**WinForge**
+Windows 10/11 diagnostic & optimization toolkit built with Python.
 
-*Not yet production-ready — actively researching and building.*
+`Diagnostics` `Optimization` `Rollback` `Dry-Run` `Offline` `No Telemetry`
 
----
+<br>
 
-## 🛠️ Technical Focus
+### `building next`
 
-| **Category** | **Technologies** |
-|---|---|
-| **Languages** | Python, PowerShell |
-| **Systems** | Windows, Linux, Networking, Hardware |
-| **Infrastructure** | Active Directory, Windows Server, Virtualization |
-| **Security** | Systems Hardening, Infrastructure Security, OSINT |
-| **Automation** | Python scripting, PowerShell automation, Infrastructure-as-Code concepts |
-| **Tools** | Git, GitHub, Command Line, Diagnostics & Troubleshooting |
+**AI-assisted OSINT tooling**
+
+```text
+COLLECT → NORMALIZE → CORRELATE → EVIDENCE → ANALYZE
+```
+
+Exploring how automation and AI can turn scattered public information into useful, structured intelligence.
 
 ---
 
-## 💡 Philosophy
+## `stack`
 
-- **Practical over flashy** — solutions that actually solve problems
-- **Security-aware** — building with defense in mind
-- **Automation-focused** — reduce manual work, increase reliability
-- **Transparent** — open source, documentation matters
-- **Learning-oriented** — continuously exploring new domains
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,powershell,windows,linux,git,github&theme=dark" />
+
+<br><br>
+
+`Networking` · `Windows Server` · `Active Directory` · `Virtualization` · `Cloud` · `Security`
+
+</div>
 
 ---
 
-## 📫 Connect
+## `direction`
 
-**Reach out for collaboration, questions, or to discuss infrastructure & security topics:**
-
-- 💼 LinkedIn: [Anas Al-Jabour](https://linkedin.com/in/anas-al-jabour)  
-- 🌐 Portfolio: [Coming soon](#)  
-- 🐙 GitHub: [@0xdowz](https://github.com/0xdowz)
+```text
+IT Fundamentals
+      ↓
+Networking
+      ↓
+Linux + Windows Systems
+      ↓
+PowerShell + Python
+      ↓
+Cloud
+      ↓
+Infrastructure Security
+      ↓
+Security Engineering + Automation
+```
 
 ---
 
 <div align="center">
-  
-  **Let's build something meaningful.** 🚀
-  
-  *Last updated: September 2026*
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+<br><br>
+
+**BUILD  ·  AUTOMATE  ·  SECURE**
+
 </div>
