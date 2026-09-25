@@ -1,22 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050B14,35:0D47A1,70:00B8D4,100:050B14&text=ANAS%20AL-JBOOR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=INFRASTRUCTURE%20%7C%20CLOUD%20%7C%20SECURITY%20%7C%20AUTOMATION&descAlignY=62&descSize=16&descColor=E6F7FF" width="100%" alt="Animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:071A3D,55:0047AB,78:00B8D4,100:020617&text=ANAS%20AL-JBOOR&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=BUILDING%20THE%20SYSTEMS%20BEHIND%20THE%20SYSTEMS&descAlignY=58&descSize=16&descColor=E0F7FF" width="100%" alt="Animated hero banner" />
 
-<a href="https://github.com/0xdowz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=55&lines=BUILDING+TOOLS+THAT+SOLVE+REAL+PROBLEMS;AUTOMATING+THE+BORING+STUFF;LEARNING+SYSTEMS+FROM+THE+INSIDE+OUT;SECURE+BY+DEFAULT.+USEFUL+BY+DESIGN." alt="Animated typing introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=950&height=70&lines=%3E%3E%3E+INITIALIZING+ANAS_OS...;%5BOK%5D+SYSTEMS+ONLINE;%5BOK%5D+AUTOMATION+ENGAGED;%5BOK%5D+SECURITY+LAYER+ACTIVE;BUILD.+AUTOMATE.+SECURE." alt="Animated terminal typing" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=0xdowz&label=PROFILE%20VIEWS&color=00B8D4&style=for-the-badge&labelColor=050B14" alt="Profile views" />
-<img src="https://img.shields.io/badge/BASED%20IN-ZARQA%2C%20JORDAN-050B14?style=for-the-badge&logo=googlemaps&logoColor=00E5FF&labelColor=050B14" alt="Based in Zarqa, Jordan" />
-<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%2B%20SECURITY-050B14?style=for-the-badge&logo=icloud&logoColor=00E5FF&labelColor=050B14" alt="Focus: cloud and security" />
+<img src="https://komarev.com/ghpvc/?username=0xdowz&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge&labelColor=020617" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=statuspage&logoColor=020617&labelColor=020617" alt="Status online" />
+<img src="https://img.shields.io/badge/LOCATION-ZARQA%2C%20JORDAN-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=00E5FF&labelColor=020617" alt="Location" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-00E5FF?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" alt="Mode building" />
 
 <br /><br />
 
-<strong>⚡ SYSTEMS</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>☁️ CLOUD</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>🛡️ SECURITY</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>⚙️ AUTOMATION</strong>
+<strong>⚡ INFRASTRUCTURE</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>☁️ CLOUD</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>🛡️ SECURITY</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>⚙️ AUTOMATION</strong>
 
 </div>
+
+---
+
+## `boot_sequence` // terminal animation
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ANAS_OS v2.0.26                    [██████████] 100%        │
+├──────────────────────────────────────────────────────────────┤
+│  > loading identity................. OK                      │
+│  > loading infrastructure........... OK                      │
+│  > loading cloud modules............ OK                      │
+│  > loading security layer........... OK                      │
+│  > starting automation engine...... RUNNING                  │
+│                                                              │
+│  ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗  │
+│  ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝  │
+│  ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║       │
+│  ██╔═══╝ ╚██╗ ██╔╝██║██║     ██║  ██║██║██║╚██╗██║██║       │
+│  ██║      ╚████╔╝ ██║███████╗██████╔╝██║██║ ╚████║╚██████╗  │
+│  ╚═╝       ╚═══╝  ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+> **Understand the system. Break the problem down. Build the tool. Ship the result.**
 
 ---
 
@@ -26,11 +54,9 @@ I'm **Anas Al-Jboor**, an MIS student at **The Hashemite University**, with a ba
 
 I build practical tools while going deeper into **IT infrastructure, systems, cloud, security, and automation**.
 
-> **Understand the system. Break the problem down. Build the tool. Ship the result.**
-
 <div align="center">
 
-### `STATUS: ONLINE` &nbsp; `MODE: BUILDING` &nbsp; `MISSION: KEEP LEARNING`
+### `STATUS: ONLINE` &nbsp; `THREAT LEVEL: LOW` &nbsp; `MISSION: KEEP LEARNING`
 
 </div>
 
@@ -41,7 +67,7 @@ I build practical tools while going deeper into **IT infrastructure, systems, cl
 <div align="center">
 
 <a href="https://github.com/0xdowz/winforge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=github_dark&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=00E5FF&text_color=E6F7FF" alt="WinForge repository card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=github_dark&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E0F7FF" alt="WinForge repository card" />
 </a>
 
 </div>
@@ -69,6 +95,8 @@ Exploring how automation and AI can transform scattered public information into 
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1600&pause=350&color=00B8D4&center=true&vCenter=true&width=850&height=45&lines=%5B+COLLECTING+%5D+%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91;[%20NORMALIZING%20]%20%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91;[%20CORRELATING%20]%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91;[%20ANALYZING%20%20]%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88" alt="Animated ASCII progress bar" />
+
 </div>
 
 ---
@@ -81,12 +109,12 @@ Exploring how automation and AI can transform scattered public information into 
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/NETWORKING-00E5FF?style=for-the-badge&labelColor=050B14" alt="Networking" />
-<img src="https://img.shields.io/badge/WINDOWS%20SERVER-00E5FF?style=for-the-badge&labelColor=050B14" alt="Windows Server" />
-<img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-00E5FF?style=for-the-badge&labelColor=050B14" alt="Active Directory" />
-<img src="https://img.shields.io/badge/VIRTUALIZATION-00E5FF?style=for-the-badge&labelColor=050B14" alt="Virtualization" />
-<img src="https://img.shields.io/badge/CLOUD-00E5FF?style=for-the-badge&labelColor=050B14" alt="Cloud" />
-<img src="https://img.shields.io/badge/SECURITY-00E5FF?style=for-the-badge&labelColor=050B14" alt="Security" />
+<img src="https://img.shields.io/badge/NETWORKING-00E5FF?style=for-the-badge&labelColor=020617" alt="Networking" />
+<img src="https://img.shields.io/badge/WINDOWS%20SERVER-00E5FF?style=for-the-badge&labelColor=020617" alt="Windows Server" />
+<img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-00E5FF?style=for-the-badge&labelColor=020617" alt="Active Directory" />
+<img src="https://img.shields.io/badge/VIRTUALIZATION-00E5FF?style=for-the-badge&labelColor=020617" alt="Virtualization" />
+<img src="https://img.shields.io/badge/CLOUD-00E5FF?style=for-the-badge&labelColor=020617" alt="Cloud" />
+<img src="https://img.shields.io/badge/SECURITY-00E5FF?style=for-the-badge&labelColor=020617" alt="Security" />
 
 </div>
 
@@ -120,12 +148,12 @@ Exploring how automation and AI can transform scattered public information into 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=0xdowz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=050B14&title_color=00E5FF&icon_color=00E5FF&text_color=E6F7FF&custom_title=SYSTEM%20ACTIVITY" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdowz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050B14&title_color=00E5FF&text_color=E6F7FF" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=0xdowz&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=E0F7FF&custom_title=SYSTEM%20ACTIVITY" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdowz&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E0F7FF" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=0xdowz&theme=github-dark-blue&hide_border=true&background=050B14&ring=00E5FF&fire=00B8D4&currStreakLabel=00E5FF&sideLabels=E6F7FF&dates=8BA3B8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=0xdowz&theme=github-dark-blue&hide_border=true&background=020617&ring=00E5FF&fire=00B8D4&currStreakLabel=00E5FF&sideLabels=E0F7FF&dates=8BA3B8" alt="GitHub contribution streak" />
 
 <br /><br />
 
@@ -143,7 +171,7 @@ Exploring how automation and AI can transform scattered public information into 
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=050B14&color=00E5FF&line=00B8D4&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20WAVEFORM" width="100%" alt="Animated contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=020617&color=00E5FF&line=00B8D4&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20WAVEFORM" width="100%" alt="Contribution activity graph" />
 
 <sub>Auto-updated daily via GitHub Actions.</sub>
 
@@ -164,7 +192,9 @@ Exploring how automation and AI can transform scattered public information into 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050B14,35:0D47A1,70:00B8D4,100:050B14&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,25:071A3D,55:0047AB,78:00B8D4,100:020617&section=footer&animation=twinkling" width="100%" alt="Animated footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=18&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&width=700&height=40&lines=%5B+BUILD+%5D;%5B+AUTOMATE+%5D;%5B+SECURE+%5D;%5B+REPEAT+%5D" alt="Animated footer status" />
 
 ### **BUILD** &nbsp;·&nbsp; **AUTOMATE** &nbsp;·&nbsp; **SECURE**
 
