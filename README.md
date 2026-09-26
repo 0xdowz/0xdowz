@@ -8,27 +8,30 @@
 
 </div>
 
+---
+
 <table>
 <tr>
 <td width="56%" valign="top">
 
-0xdowz
+## `0xdowz`
 
-I build around systems.
+I build around **systems**.
 
 Not tied to one framework, one language, or one trendy stack — the interesting part is the layer underneath:
 
-operating systems · networking · infrastructure · automation · reliability · security
+**operating systems · networking · infrastructure · automation · reliability · security**
 
 My direction:
 
-IT → NETWORKING → SYSTEMS → AUTOMATION → CLOUD → SECURITY
+`IT → NETWORKING → SYSTEMS → AUTOMATION → CLOUD → SECURITY`
 
 </td>
 <td width="44%" valign="top">
 
-NOW
+### `NOW`
 
+```text
 ┌──────────────────────────┐
 │ systems        ████████  │
 │ networking     ██████░░  │
@@ -36,32 +39,39 @@ NOW
 │ cloud          ███░░░░░  │
 │ security       ███░░░░░  │
 └──────────────────────────┘
+```
 
-learn → build → test → refine
+`learn → build → test → refine`
 
 </td>
 </tr>
 </table>
 
-// FEATURED
+---
+
+## `// FEATURED`
 
 <a href="https://github.com/0xdowz/winforge">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=dark&bg_color=07080A&title_color=C7FF2F&text_color=9CA3AF&icon_color=63F5CF&border_color=242932&hide_border=false" width="49%" alt="WinForge"/>
 </a>
 
-WINFORGE
+### `WINFORGE`
 
-A Windows 10/11 diagnostic and optimization CLI focused on visibility, safety, reversibility, and control.
+A Windows 10/11 diagnostic and optimization CLI focused on **visibility, safety, reversibility, and control**.
 
+```text
 DRY-RUN          YES
 BACKUPS          YES
 ROLLBACK         YES
 OFFLINE          YES
 TELEMETRY        NO
+```
 
-open repository →
+[open repository →](https://github.com/0xdowz/winforge)
 
-// THE STACK
+---
+
+## `// THE STACK`
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=windows,linux,powershell,python,git,github,vscode&perline=7" alt="Tools"/>
@@ -76,8 +86,11 @@ open repository →
 </tr>
 </table>
 
-// BUILD PHILOSOPHY
+---
 
+## `// BUILD PHILOSOPHY`
+
+```text
         MAKE IT OBSERVABLE
                  ↓
         MAKE IT REPEATABLE
@@ -85,14 +98,19 @@ open repository →
         MAKE IT REVERSIBLE
                  ↓
         THEN MAKE IT FAST
+```
 
 I prefer tools that explain what they are about to do, leave evidence behind, and fail in a way that can be understood.
 
-// ACTIVITY
+---
+
+## `// ACTIVITY`
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=07080A&color=9CA3AF&line=C7FF2F&point=63F5CF&area=true&hide_border=true&custom_title=0xdowz%20//%20activity" width="96%" alt="GitHub activity graph"/>
 </p>
+
+---
 
 <div align="center">
 

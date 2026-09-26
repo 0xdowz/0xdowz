@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 430" width="1600" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07080A"/>
+      <stop offset="55%" stop-color="#0A0D11"/>
+      <stop offset="100%" stop-color="#11131A"/>
+    </linearGradient>
+    <linearGradient id="acid" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C7FF2F"/>
+      <stop offset="100%" stop-color="#63F5CF"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1600" height="430" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1600" height="430" fill="url(#bg)"/>
+    <rect width="1600" height="430" fill="url(#grid)"/>
+
+    <g opacity=".75">
+      <circle cx="1320" cy="80" r="190" fill="none" stroke="#C7FF2F" stroke-opacity=".08"/>
+      <circle cx="1320" cy="80" r="130" fill="none" stroke="#63F5CF" stroke-opacity=".08"/>
+      <circle cx="1320" cy="80" r="70" fill="none" stroke="#A78BFA" stroke-opacity=".10"/>
+    </g>
+
+    <path d="M0 338 L158 338 L190 306 L308 306 L334 286 L520 286" fill="none" stroke="#C7FF2F" stroke-opacity=".24" stroke-width="2"/>
+    <path d="M1110 356 L1240 356 L1268 330 L1450 330 L1476 304 L1600 304" fill="none" stroke="#63F5CF" stroke-opacity=".18" stroke-width="2"/>
+
+    <rect x="72" y="68" width="8" height="8" fill="#C7FF2F">
+      <animate attributeName="opacity" values="1;.15;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="98" y="76" fill="#8A929E" font-family="monospace" font-size="18" letter-spacing="5">PROFILE // 00x</text>
+
+    <text x="72" y="195" fill="#F4F7F8" font-family="monospace" font-size="118" font-weight="700" letter-spacing="-7">0xdowz</text>
+    <rect x="76" y="220" width="420" height="5" fill="url(#acid)" filter="url(#glow)">
+      <animate attributeName="width" values="40;420;260;420;40" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="74" y="270" fill="#C7FF2F" font-family="monospace" font-size="21" letter-spacing="7">SYSTEMS  /  INFRASTRUCTURE</text>
+    <text x="74" y="304" fill="#9CA3AF" font-family="monospace" font-size="18" letter-spacing="4">AUTOMATION  /  SECURITY  /  BUILDING</text>
+
+    <g transform="translate(1120 55)">
+      <rect x="0" y="0" width="390" height="275" rx="10" fill="#090B0F" stroke="#FFFFFF" stroke-opacity=".12"/>
+      <rect x="22" y="23" width="346" height="2" fill="#FFFFFF" opacity=".12"/>
+      <circle cx="27" cy="45" r="5" fill="#C7FF2F"/>
+      <text x="44" y="51" fill="#7E8794" font-family="monospace" font-size="13">runtime://profile</text>
+
+      <text x="25" y="96" fill="#7E8794" font-family="monospace" font-size="14">$ ./init</text>
+      <text x="25" y="122" fill="#F4F7F8" font-family="monospace" font-size="20">0xdowz online</text>
+
+      <text x="25" y="162" fill="#7E8794" font-family="monospace" font-size="14">$ focus</text>
+      <text x="25" y="188" fill="#63F5CF" font-family="monospace" font-size="17">systems > repetition</text>
+
+      <text x="25" y="228" fill="#7E8794" font-family="monospace" font-size="14">$ status</text>
+      <text x="25" y="254" fill="#C7FF2F" font-family="monospace" font-size="17">BUILD / TEST / SHIP</text>
+    </g>
+
+    <g opacity=".18">
+      <rect x="0" y="0" width="1600" height="2" fill="#FFFFFF">
+        <animate attributeName="y" values="-10;440" dur="4.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <text x="75" y="392" fill="#656D78" font-family="monospace" font-size="14" letter-spacing="3">01 — KEEP IT USEFUL</text>
+    <text x="1320" y="392" fill="#656D78" font-family="monospace" font-size="14" letter-spacing="3">JORDAN // 2026</text>
+  </g>
+</svg>

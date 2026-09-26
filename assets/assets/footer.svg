@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" width="1600" height="180">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C7FF2F"/>
+      <stop offset="100%" stop-color="#63F5CF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="180" fill="#07080A"/>
+  <g opacity=".13" stroke="#FFFFFF">
+    <path d="M0 30H1600M0 60H1600M0 90H1600M0 120H1600M0 150H1600"/>
+  </g>
+  <path d="M70 90 H1530" stroke="#FFFFFF" stroke-opacity=".1"/>
+  <path d="M70 90 H540" stroke="url(#g)" stroke-width="4">
+    <animate attributeName="d" values="M70 90 H220;M70 90 H860;M70 90 H540;M70 90 H220" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="70" y="62" fill="#8A929E" font-family="monospace" font-size="14" letter-spacing="4">END OF TRANSMISSION</text>
+  <text x="70" y="128" fill="#F4F7F8" font-family="monospace" font-size="30" font-weight="700">0xdowz</text>
+  <text x="270" y="128" fill="#656D78" font-family="monospace" font-size="16" letter-spacing="3">BUILD SOMETHING WORTH KEEPING.</text>
+</svg>
