@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="0xdowz"/>
+<img src="./assets/hero.png" width="100%" alt="0xdowz"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ My direction:
 ## `// FEATURED`
 
 <a href="https://github.com/0xdowz/winforge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=dark&bg_color=07080A&title_color=C7FF2F&text_color=9CA3AF&icon_color=63F5CF&border_color=242932&hide_border=false" width="49%" alt="WinForge"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=dark&bg_color=07080A&title_color=C7FF2F&text_color=9CA3AF&icon_color=63F5CF&border_color=242932" width="49%" alt="WinForge"/>
 </a>
 
 ### `WINFORGE`
@@ -104,11 +104,31 @@ I prefer tools that explain what they are about to do, leave evidence behind, an
 
 ---
 
-## `// ACTIVITY`
+## `// CONTRIBUTIONS`
+
+<div align="center">
+
+<table width="96%">
+<tr>
+<td>
+
+<p align="center"><sub><code>0xdowz // CONTRIBUTION MATRIX</code></sub></p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=07080A&color=9CA3AF&line=C7FF2F&point=63F5CF&area=true&hide_border=true&custom_title=0xdowz%20//%20activity" width="96%" alt="GitHub activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xdowz/0xdowz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xdowz/0xdowz/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/0xdowz/0xdowz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution graph" />
+</picture>
 </p>
+
+<p align="center"><sub>LIVE DATA · AUTO-REBUILT DAILY · SNAKE MODE</sub></p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -124,6 +144,6 @@ I prefer tools that explain what they are about to do, leave evidence behind, an
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="0xdowz footer"/>
+<img src="./assets/footer.png" width="100%" alt="0xdowz footer"/>
 
 </div>
