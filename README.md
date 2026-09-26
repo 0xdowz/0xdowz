@@ -1,175 +1,111 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=venom&color=0:080D14,55:102A43,100:1C6B78&height=230&section=header&text=0xdowz&fontSize=82&fontColor=EAF7FF&fontAlignY=38&desc=SYSTEMS%20%2F%2F%20AUTOMATION%20%2F%2F%20SECURITY&descAlignY=68&descSize=18&animation=twinkling"
-width="100%"
-alt="0xdowz — Systems // Automation // Security"
-/>
+<img src="./assets/hero.svg" width="100%" alt="0xdowz"/>
 
-<a href="https://github.com/0xdowz">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=820&height=54&lines=Infrastructure+%26+Systems;Windows+%2B+Linux+%2B+Networking;PowerShell+%2B+Python+Automation;Cloud+%2B+Security+in+progress" alt="Typing animation" />
-</a>
+<br/>
 
-<p>
-  <strong>Systems first. Automation next. Security everywhere.</strong><br/>
-  <sub>نبني الأنظمة • نؤتمت العمل • ونترك التعقيد خلفنا</sub>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=C7FF2F&center=true&vCenter=true&width=760&height=45&lines=SYSTEMS+%2F%2F+INFRASTRUCTURE;AUTOMATION+%2F%2F+SECURITY;BUILDING+TOOLS%2C+NOT+NOISE" alt="0xdowz animated tagline"/>
 
 </div>
 
-┌────────────────────────────────────────────────────────────────────┐
-│  PS C:\Users\0xdowz> whoami                                       │
-│                                                                    │
-│  Anas Al-Jboor                                                     │
-│  MIS student • Systems builder • Graphic designer                 │
-│                                                                    │
-│  PRIMARY TRACK                                                     │
-│  IT Infrastructure → Systems → Automation → Cloud → Security      │
-│                                                                    │
-│  I like understanding how machines behave, then turning that      │
-│  understanding into reliable tools, repeatable workflows, and     │
-│  safer systems.                                                    │
-└────────────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="56%" valign="top">
 
-01 / What I am building
+0xdowz
 
-My work sits around IT infrastructure and systems rather than a single programming language.
+I build around systems.
 
-FOUNDATION
-IT fundamentals
-     │
-     ├── Networking
-     ├── Linux
-     ├── Windows & system administration
-     │
-AUTOMATION
-     ├── PowerShell
-     └── Python
-          │
-PLATFORM
-     └── Cloud
-          │
-SECURITY
-     └── Infrastructure / Cloud Security
+Not tied to one framework, one language, or one trendy stack — the interesting part is the layer underneath:
 
-The goal is simple: build systems that are understandable, repeatable, observable, and reversible.
+operating systems · networking · infrastructure · automation · reliability · security
 
-02 / Featured work
+My direction:
 
-⚙️ WinForge
+IT → NETWORKING → SYSTEMS → AUTOMATION → CLOUD → SECURITY
 
-An open-source, non-destructive Windows optimization framework built around transparency, previews, diagnostics, backups, verification, and rollback.
+</td>
+<td width="44%" valign="top">
 
-What makes it interesting
+NOW
 
-Offline-first execution with no telemetry.
+┌──────────────────────────┐
+│ systems        ████████  │
+│ networking     ██████░░  │
+│ automation     █████░░░  │
+│ cloud          ███░░░░░  │
+│ security       ███░░░░░  │
+└──────────────────────────┘
 
-Preview and explanation before system mutations.
+learn → build → test → refine
 
-Restore points and registry/state snapshots before changes.
+</td>
+</tr>
+</table>
 
-Post-change verification.
+// FEATURED
 
-Machine-readable rollback history.
+<a href="https://github.com/0xdowz/winforge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdowz&repo=winforge&theme=dark&bg_color=07080A&title_color=C7FF2F&text_color=9CA3AF&icon_color=63F5CF&border_color=242932&hide_border=false" width="49%" alt="WinForge"/>
+</a>
 
-CLI workflows designed for both interactive use and automation.
+WINFORGE
 
-Repository: 0xdowz/winforge
+A Windows 10/11 diagnostic and optimization CLI focused on visibility, safety, reversibility, and control.
+
+DRY-RUN          YES
+BACKUPS          YES
+ROLLBACK         YES
+OFFLINE          YES
+TELEMETRY        NO
+
+open repository →
+
+// THE STACK
 
 <p align="center">
-  <a href="https://github.com/0xdowz/winforge">
-    <img src="https://img.shields.io/github/stars/0xdowz/winforge?style=for-the-badge&label=STARS&color=102A43" alt="WinForge stars" />
-  </a>
-  <a href="https://github.com/0xdowz/winforge/releases">
-    <img src="https://img.shields.io/github/v/release/0xdowz/winforge?style=for-the-badge&label=RELEASE&color=1C6B78" alt="WinForge release" />
-  </a>
-  <a href="https://github.com/0xdowz/winforge/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/0xdowz/winforge?style=for-the-badge&label=LICENSE&color=0E7490" alt="WinForge license" />
-  </a>
+<img src="https://skillicons.dev/icons?i=windows,linux,powershell,python,git,github,vscode&perline=7" alt="Tools"/>
 </p>
 
-03 / Engineering mindset
+<table align="center">
+<tr>
+<td align="center"><sub>SYSTEMS</sub><br/><b>Windows · Linux</b></td>
+<td align="center"><sub>NETWORK</sub><br/><b>Networking · Protocols</b></td>
+<td align="center"><sub>AUTOMATION</sub><br/><b>PowerShell · Python</b></td>
+<td align="center"><sub>WORKFLOW</sub><br/><b>Git · CLI · Testing</b></td>
+</tr>
+</table>
 
-┌─ PRINCIPLES ──────────────────────────────────────────────────────┐
-│                                                                    │
-│  preview  →  change  →  verify  →  record  →  rollback            │
-│                                                                    │
-│  Safe by default.                                                  │
-│  Evidence over hype.                                               │
-│  Automation over repetition.                                       │
-│  Small tools, clear behavior.                                      │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+// BUILD PHILOSOPHY
 
-I am especially interested in the layer most people never see:
+        MAKE IT OBSERVABLE
+                 ↓
+        MAKE IT REPEATABLE
+                 ↓
+        MAKE IT REVERSIBLE
+                 ↓
+        THEN MAKE IT FAST
 
-the operating system, the network, the scripts, the services, the configuration, and the automation connecting everything together.
+I prefer tools that explain what they are about to do, leave evidence behind, and fail in a way that can be understood.
 
-04 / Current stack
-
-Working with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,git,github,vscode&perline=6" alt="Current tools" />
-</p>
-
-Expanding into
+// ACTIVITY
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,docker,terraform&perline=6" alt="Learning stack" />
-</p>
-
-CORE      Windows • Linux • Networking • Git
-SYSTEMS   Troubleshooting • Diagnostics • Configuration
-AUTOMATE  PowerShell • Python
-NEXT      Cloud • Infrastructure Security • DevSecOps
-
-05 / Why GitHub
-
-I use GitHub as more than a code dump.
-
-idea
-  ↓
-prototype
-  ↓
-test
-  ↓
-document
-  ↓
-release
-  ↓
-iterate
-
-The projects here are intended to show how I think about systems, not just which technologies I have touched.
-
-06 / A few things I care about
-
-Windows · Linux · Networking · Virtualization · Automation · Cloud · Security
-
-I also come from a visual-design background, so I care about the other side of engineering too:
-
-clean interfaces, clear documentation, useful visual hierarchy, and tools that feel deliberate rather than thrown together.
-
-07 / Connect
-
-<p align="center">
-  <a href="https://github.com/0xdowz">
-    <img src="https://img.shields.io/badge/GitHub-0xdowz-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdowz&bg_color=07080A&color=9CA3AF&line=C7FF2F&point=63F5CF&area=true&hide_border=true&custom_title=0xdowz%20//%20activity" width="96%" alt="GitHub activity graph"/>
 </p>
 
 <div align="center">
 
-<sub>
-Built in Jordan · currently learning, building, testing, and shipping.
-</sub>
+<a href="https://github.com/0xdowz?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-0xdowz-0B0D10?style=for-the-badge&logo=github&logoColor=F4F7F8&labelColor=161A20&color=C7FF2F" alt="Repositories"/>
+</a>
+&nbsp;
+<a href="https://github.com/0xdowz/winforge">
+  <img src="https://img.shields.io/badge/WINFORGE-OPEN%20SOURCE-0B0D10?style=for-the-badge&logo=github&logoColor=F4F7F8&labelColor=161A20&color=63F5CF" alt="WinForge"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:1C6B78,55:102A43,100:080D14&height=115&section=footer&animation=fadeIn"
-width="100%"
-alt=""
-/>
+<img src="./assets/footer.svg" width="100%" alt="0xdowz footer"/>
 
 </div>
