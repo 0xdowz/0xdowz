@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="0xdowz"/>
+<img src="https://raw.githubusercontent.com/0xdowz/0xdowz/main/assets/hero.png" width="100%" alt="0xdowz"/>
 
 <br/>
 
@@ -144,6 +144,6 @@ I prefer tools that explain what they are about to do, leave evidence behind, an
 
 <br/><br/>
 
-<img src="./assets/footer.png" width="100%" alt="0xdowz footer"/>
+<img src="https://raw.githubusercontent.com/0xdowz/0xdowz/main/assets/footer.png" width="100%" alt="0xdowz footer"/>
 
 </div>
