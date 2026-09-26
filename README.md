@@ -1,50 +1,175 @@
 <div align="center">
 
-# ⚡ 0xdowz
-### `SYSTEMS ARCHITECT` • `INFRASTRUCTURE SECURITY` • `AUTOMATION`
+<img
+src="https://capsule-render.vercel.app/api?type=venom&color=0:080D14,55:102A43,100:1C6B78&height=230&section=header&text=0xdowz&fontSize=82&fontColor=EAF7FF&fontAlignY=38&desc=SYSTEMS%20%2F%2F%20AUTOMATION%20%2F%2F%20SECURITY&descAlignY=68&descSize=18&animation=twinkling"
+width="100%"
+alt="0xdowz — Systems // Automation // Security"
+/>
 
-[![GitHub](https://img.shields.io/badge/OPERATOR-0xdowz-020617?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=020617)](https://github.com/0xdowz)
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-020617?style=for-the-badge&logo=statuspage&logoColor=00E5FF&labelColor=020617)](#)
-[![Security](https://img.shields.io/badge/SECURITY-DEFENSIVE%20%26%20OFFENSIVE-020617?style=for-the-badge&logo=target&logoColor=00E5FF&labelColor=020617)](#)
-[![Stack](https://img.shields.io/badge/CORE-LOW__LEVEL%20%7C%20AUTOMATION-020617?style=for-the-badge&logo=powershell&logoColor=00E5FF&labelColor=020617)](#)
+<a href="https://github.com/0xdowz">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=820&height=54&lines=Infrastructure+%26+Systems;Windows+%2B+Linux+%2B+Networking;PowerShell+%2B+Python+Automation;Cloud+%2B+Security+in+progress" alt="Typing animation" />
+</a>
+
+<p>
+  <strong>Systems first. Automation next. Security everywhere.</strong><br/>
+  <sub>نبني الأنظمة • نؤتمت العمل • ونترك التعقيد خلفنا</sub>
+</p>
+
+</div>
+
+┌────────────────────────────────────────────────────────────────────┐
+│  PS C:\Users\0xdowz> whoami                                       │
+│                                                                    │
+│  Anas Al-Jboor                                                     │
+│  MIS student • Systems builder • Graphic designer                 │
+│                                                                    │
+│  PRIMARY TRACK                                                     │
+│  IT Infrastructure → Systems → Automation → Cloud → Security      │
+│                                                                    │
+│  I like understanding how machines behave, then turning that      │
+│  understanding into reliable tools, repeatable workflows, and     │
+│  safer systems.                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+01 / What I am building
+
+My work sits around IT infrastructure and systems rather than a single programming language.
+
+FOUNDATION
+IT fundamentals
+     │
+     ├── Networking
+     ├── Linux
+     ├── Windows & system administration
+     │
+AUTOMATION
+     ├── PowerShell
+     └── Python
+          │
+PLATFORM
+     └── Cloud
+          │
+SECURITY
+     └── Infrastructure / Cloud Security
+
+The goal is simple: build systems that are understandable, repeatable, observable, and reversible.
+
+02 / Featured work
+
+⚙️ WinForge
+
+An open-source, non-destructive Windows optimization framework built around transparency, previews, diagnostics, backups, verification, and rollback.
+
+What makes it interesting
+
+Offline-first execution with no telemetry.
+
+Preview and explanation before system mutations.
+
+Restore points and registry/state snapshots before changes.
+
+Post-change verification.
+
+Machine-readable rollback history.
+
+CLI workflows designed for both interactive use and automation.
+
+Repository: 0xdowz/winforge
+
+<p align="center">
+  <a href="https://github.com/0xdowz/winforge">
+    <img src="https://img.shields.io/github/stars/0xdowz/winforge?style=for-the-badge&label=STARS&color=102A43" alt="WinForge stars" />
+  </a>
+  <a href="https://github.com/0xdowz/winforge/releases">
+    <img src="https://img.shields.io/github/v/release/0xdowz/winforge?style=for-the-badge&label=RELEASE&color=1C6B78" alt="WinForge release" />
+  </a>
+  <a href="https://github.com/0xdowz/winforge/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/0xdowz/winforge?style=for-the-badge&label=LICENSE&color=0E7490" alt="WinForge license" />
+  </a>
+</p>
+
+03 / Engineering mindset
+
+┌─ PRINCIPLES ──────────────────────────────────────────────────────┐
+│                                                                    │
+│  preview  →  change  →  verify  →  record  →  rollback            │
+│                                                                    │
+│  Safe by default.                                                  │
+│  Evidence over hype.                                               │
+│  Automation over repetition.                                       │
+│  Small tools, clear behavior.                                      │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+I am especially interested in the layer most people never see:
+
+the operating system, the network, the scripts, the services, the configuration, and the automation connecting everything together.
+
+04 / Current stack
+
+Working with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,git,github,vscode&perline=6" alt="Current tools" />
+</p>
+
+Expanding into
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,docker,terraform&perline=6" alt="Learning stack" />
+</p>
+
+CORE      Windows • Linux • Networking • Git
+SYSTEMS   Troubleshooting • Diagnostics • Configuration
+AUTOMATE  PowerShell • Python
+NEXT      Cloud • Infrastructure Security • DevSecOps
+
+05 / Why GitHub
+
+I use GitHub as more than a code dump.
+
+idea
+  ↓
+prototype
+  ↓
+test
+  ↓
+document
+  ↓
+release
+  ↓
+iterate
+
+The projects here are intended to show how I think about systems, not just which technologies I have touched.
+
+06 / A few things I care about
+
+Windows · Linux · Networking · Virtualization · Automation · Cloud · Security
+
+I also come from a visual-design background, so I care about the other side of engineering too:
+
+clean interfaces, clear documentation, useful visual hierarchy, and tools that feel deliberate rather than thrown together.
+
+07 / Connect
+
+<p align="center">
+  <a href="https://github.com/0xdowz">
+    <img src="https://img.shields.io/badge/GitHub-0xdowz-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+
+<sub>
+Built in Jordan · currently learning, building, testing, and shipping.
+</sub>
 
 <br/>
 
-```ansi
-[1;36m[SYS_INIT][0m Authenticated: [1;32m0xdowz[0m
-[1;34m[RUNTIME] [0m Windows Internals • Cloud-Edge Pipelines • Defensive Tooling
-[1;33m[DIRECTIVE][0m Understand the system. Break constraints down. Automate the core.
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:1C6B78,55:102A43,100:080D14&height=115&section=footer&animation=fadeIn"
+width="100%"
+alt=""
+/>
 
-```
-
----
-
-## ⚙️ Systems & Security Engineering
-
----
-
-## 🔬 Featured Production Repositories
-
-| Repository | Focus & Architecture | Core Stack | Status |
-| --- | --- | --- | --- |
-| **[winforge](https://github.com/0xdowz/winforge?utm_source=gemini)** | Windows 10/11 diagnostic & optimization engine with dry-run pipelines, automatic rollback hooks, and telemetry-free design. | `Python` `Win32 API` `PowerShell` | `Production` |
-| **[ANAS-APEX-X](https://github.com/0xdowz/ANAS-APEX-X?utm_source=gemini)** | Modular subsystem debloater & latency mitigation framework for granular background task and service optimization. | `PowerShell Core` `WMI/CIM` | `Active` |
-| **[enterprise-scanner](https://github.com/0xdowz/enterprise-scanner?utm_source=gemini)** | Asynchronous network reconnaissance toolkit designed for rapid port discovery, banner enumeration, and audit mapping. | `Python` `AsyncIO` `Sockets` | `Stable` |
-| **[airnas-pro](https://github.com/0xdowz/airnas-pro?utm_source=gemini)** | High-efficiency native AirPlay stream receiver implementation focused on low-latency desktop reception. | `C++` `Networking` `UI/UX` | `In Dev` |
-
----
-
-## 🧰 Technical Arsenal
-
-```
-[SYSTEMS & INFRA] ── Windows Server • Active Directory • Linux • Hyper-V • Docker
-[LANGUAGES/CORE]  ── Python 3.12 • PowerShell 7 • Modern C++ • Bash Scripting
-[AUDIT & TOOLS]   ── Burp Suite • Wireshark • Nmap • Network Sockets • Git CI/CD
-
-```
-
----
-
-## 📊 Telemetry & Systems Activity
-
-SYSTEM METRICS MONITORED // INFRASTRUCTURE READY FOR PRODUCTION WORKLOADS
+</div>
